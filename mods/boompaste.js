@@ -1,4 +1,4 @@
-activated_meltpasteBlacklist = ["activated_meltpaste"]
+activated_meltpasteBlacklist = ["meltpaste"]
 let v = -1.797693134862315E+308;
 let w = v * 1.001;
 let x = 1.797693134862315E+308;
